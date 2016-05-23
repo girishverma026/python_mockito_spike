@@ -1,0 +1,17 @@
+Metadata-Version: 1.1
+Name: mockito-edgeware
+Version: 0.5.1
+Summary: Spying framework
+Home-page: https://github.com/edgeware/mockito-python
+Author: Mockito Maintainers
+Author-email: mockito-python@googlegroups.com
+License: MIT
+Download-URL: http://pypi.edgeware.tv/simple/mockito
+Description: Mockito is a spying framework based on Java librarywith the same name.
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Topic :: Software Development :: Testing
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 3
